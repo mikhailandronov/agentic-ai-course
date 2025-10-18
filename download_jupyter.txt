@@ -1,0 +1,3 @@
+From M2_UGL_1.ipynb run in the cell:
+
+!tar -czvf project.tar.gz ./../../..
